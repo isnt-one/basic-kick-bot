@@ -1,5 +1,5 @@
 # basic kick bot
- This is just an experiment created out of boredom to learn python more and to learn how the initial kick api worked.
+ This is just an experiment created out of boredom to learn python more and to learn how the initial kick api worked (pre-public api release).
 
 ### Dependencies:
  * curl_cffi
